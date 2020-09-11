@@ -3,6 +3,13 @@
 Movie Recommender System 
   - Different Comparisions of recommendation systems
   
+Project Phases
+  1. Initial proposal
+  2. Revised proposal
+  3. Milestone report
+  4. Presentation
+  5. Final report
+  
 Technologies Used
   - Jupyter Notebook
   - Scikit Learn
